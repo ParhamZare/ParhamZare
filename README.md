@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-My name is Parham and I am a software engineer and team leader with industry experience building websites And mobile applications, which was my purpose since I was 13 years old when I have started learning programming by myself. My specialities are JavaScript and PHP which most of my projects are done with them , but I always consider myself as a junior who wants to learn more and more. As a team leader I learn how to deal with challenges and problems by using the most out of my team because I believe the teamwork is a heart of every successful team.
+My Name is Parham
+I am a Full-stack JavaScript developer with 8 years experience in building web and mobile applications. Proficient in using modern technologies such as Node.js, ReactJS, NextJS, React Native and MongoDB to build seamless and efficient systems. Adept at writing clean, maintainable code and utilizing agile methodologies to deliver projects on time and effectively communicate with other teams. Committed to staying current with industry advancements to provide optimal user experiences and continuously improve their skills. Results-driven and dedicated to delivering high-quality software solutions to meet clients' needs and expectations.
 
 
 Gist: 
